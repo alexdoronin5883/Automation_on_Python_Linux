@@ -1,0 +1,11 @@
+folder_in: /home/vboxuser/tst
+folder_out: /home/vboxuser/out
+folder_ext: /home/vboxuser/folder1
+folder_ext2: /home/vboxuser/folder2
+count: 5
+bs: 1M
+ip: 192.168.0.109
+user: vboxuser
+passwd: "alex5883"
+pkgname: p7zip-full
+type: 7z
